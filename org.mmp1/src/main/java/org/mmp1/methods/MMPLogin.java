@@ -11,7 +11,7 @@ public class MMPLogin{
 	By loginOKButton = By.name("submit");
 //Changes in MMP Branch
 	public MMPLogin(WebDriver driver)
-	{//Adding  a comment
+	{
 		this.driver=driver;
 	}
     
