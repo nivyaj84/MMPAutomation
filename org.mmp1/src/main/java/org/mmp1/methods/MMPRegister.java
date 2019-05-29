@@ -8,7 +8,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
-
+//Adding a comment
 public class MMPRegister{
 	 WebDriver driver;
 	 public Map<String, String> userInfo = new HashMap<String, String>();
