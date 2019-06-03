@@ -6,6 +6,7 @@
 			value="http://96.84.175.78/MMP-Release2-Integrated-Build.6.8.000/" />
 		<parameter name="Username" value="Annaj85" />
 		<parameter name="Password" value="Annajohny1" />
+		
 		<classes>
 			<class name="org.mmp1.tests.U07_PatientMenuValidation" />
 		</classes>
