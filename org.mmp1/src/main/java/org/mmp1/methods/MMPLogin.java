@@ -2,7 +2,7 @@ package org.mmp1.methods;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-
+//Chages in master
 public class MMPLogin{
 	WebDriver driver;
 	By loginButton = By.xpath("//div/a[@class='button button-alt'][contains(text(),'Login')]");
